@@ -1,20 +1,24 @@
 # Hyperreadable
 **A more plain version of Atkinson Hyperlegible**
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/7fe0fde4-62b6-4298-a360-779d3553422f" />
+
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/3ee4942d-0305-4459-b42e-49379505c8b6" />
 
 
-
-
-<img width="928" height="372" alt="image" src="https://github.com/user-attachments/assets/af2927d8-1b16-43c3-9af4-47356d89cd21" />
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/bafbd0e5-3334-4628-a335-334905e8fd32" />
 
 
 
 <br>
 
 <br>
+
 Atkinson Hyperlegible is a great typeface but with a few design choices that were still difficult to get accustomed to after extensive usage.
 Hyperreadable changes these and makes some minor alterations for a more neutral look.
+
+
+<img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/ae146a12-6224-4cf3-b7cb-570d57ddc144" />
+
 
 <br>
 
@@ -65,7 +69,6 @@ The asymmetrical spurs on several characters have been made symmetrical:
 Overall, the differences are mostly subtle unless the text is large, bold, or contains numbers:
 
 <img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/89a087c4-e5b9-4443-9085-dec538dd6b12" />
-
 
 
 
