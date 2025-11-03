@@ -1,12 +1,13 @@
 # Hyperreadable
 **A more plain version of Atkinson Hyperlegible**
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/b5590857-7912-4c63-ba0c-0beb9aa576fb" />
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/7fe0fde4-62b6-4298-a360-779d3553422f" />
 
 
 
 
-<img width="928" height="372" alt="image" src="https://github.com/user-attachments/assets/05498a26-3df8-42b9-b995-b9b6ae645471" />
+<img width="928" height="372" alt="image" src="https://github.com/user-attachments/assets/af2927d8-1b16-43c3-9af4-47356d89cd21" />
+
 
 
 <br>
@@ -25,11 +26,14 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 
 **8**: The 8 is more traditional. The wide-bottom 8 is a hallmark of Atkinson Hyperlegible, but the smaller top half seemed to vanish when text was small or bold. Even at larger sizes, the shape was somewhat distracting.
 
-<img width="408" height="27" alt="image" src="https://github.com/user-attachments/assets/b34f9141-0bd9-4c80-9c93-3f1f9490ca1e" />
+<img width="408" height="27" alt="image" src="https://github.com/user-attachments/assets/b88f7ab6-e1b8-4004-9b1e-e63359429e6c" />
+
 
 <br>
 <br>
-<img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/f0e146c5-dd89-445b-a723-4ea6554d7df3" />
+
+<img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/b27f7112-2dac-47ca-9860-18fc9f610fad" />
+
 
 *(Even with the blurry demo they provide, the conventional 8 on the left is easily distinguishable from the capital B)*
 
@@ -39,7 +43,8 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 
 **q**: The lowercase q has a shorter tail. This can also help add more space before certain characters:
 
-<img width="559" height="157" alt="image" src="https://github.com/user-attachments/assets/1005a17f-b721-45eb-96c9-b9b0c89240f0" />
+<img width="559" height="157" alt="image" src="https://github.com/user-attachments/assets/201ac36f-53a3-45f2-bc1f-0d387108ffa8" />
+
 
 <br>
 
@@ -49,12 +54,18 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 **W**: The middle of the capital W is now lower than the sides.
 
 The asymmetrical spurs on several characters have been made symmetrical:
-<img width="487" height="270" alt="image" src="https://github.com/user-attachments/assets/de4b0980-f26a-4413-b520-2253b02641c9" />
 
+<img width="487" height="270" alt="image" src="https://github.com/user-attachments/assets/c7f24ab4-5368-49ae-8815-6162bcd705d8" />
+
+
+<br>
+
+<br>
 
 Overall, the differences are mostly subtle unless the text is large, bold, or contains numbers:
 
-<img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/9f6219cc-6bbb-47e5-860e-30cc91414fa6" />
+<img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/89a087c4-e5b9-4443-9085-dec538dd6b12" />
+
 
 
 
