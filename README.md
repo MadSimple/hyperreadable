@@ -2,10 +2,10 @@
 **A more plain version of Atkinson Hyperlegible**
 
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/3ee4942d-0305-4459-b42e-49379505c8b6" />
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/3fbc17fb-8026-4008-aaee-ed579c03d3bc" />
 
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/bafbd0e5-3334-4628-a335-334905e8fd32" />
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/ab44e1ab-bac9-4735-8cd1-63a76e56a0fc" />
 
 
 
