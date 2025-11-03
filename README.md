@@ -24,7 +24,7 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 
 **6**: The 6 is no longer curved at the top. It was frequently being confused for the 8 or the slashed 0.
 
-**8**: The 8 is more traditional. The wide-bottom 8 is a hallmark of Atkinson Hyperlegible, but the smaller top half seemed to vanish when text was small or bold. Even at larger sizes, the shape was somewhat distracting.
+**8**: The 8 is more conventional. The wide-bottom 8 is a hallmark of Atkinson Hyperlegible, but the smaller top half seemed to vanish when text was small or bold. Even at larger sizes, the shape was somewhat distracting.
 
 <img width="408" height="27" alt="image" src="https://github.com/user-attachments/assets/b88f7ab6-e1b8-4004-9b1e-e63359429e6c" />
 
