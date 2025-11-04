@@ -2,11 +2,10 @@
 **A more plain version of Atkinson Hyperlegible**
 
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/3fbc17fb-8026-4008-aaee-ed579c03d3bc" />
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/e3f2fb74-9a96-4464-9316-df31661892cf" />
 
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/ab44e1ab-bac9-4735-8cd1-63a76e56a0fc" />
-
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/558d0f6e-9259-44ca-866e-687ecf273d85" />
 
 
 <br>
@@ -17,7 +16,7 @@ Atkinson Hyperlegible is a great typeface but with a few design choices that wer
 Hyperreadable changes these and makes some minor alterations for a more neutral look.
 
 
-<img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/ae146a12-6224-4cf3-b7cb-570d57ddc144" />
+<img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/7ba7bc86-1032-4f70-b0c4-692293b32baf" />
 
 
 <br>
@@ -54,8 +53,6 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 
 <br>
 
-
-**W**: The middle of the capital W is now lower than the sides.
 
 The asymmetrical spurs on several characters have been made symmetrical:
 
