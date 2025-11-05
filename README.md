@@ -13,6 +13,7 @@
 <br>
 
 Atkinson Hyperlegible is a great typeface but with a few design choices that were still difficult to get accustomed to after extensive usage.
+
 Hyperreadable changes these and makes some minor alterations for a more neutral look while keeping a good amount of legibility.
 
 
