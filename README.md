@@ -2,10 +2,11 @@
 **A more plain version of Atkinson Hyperlegible**
 
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/e3f2fb74-9a96-4464-9316-df31661892cf" />
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/0b2a383d-5f2d-4aed-a9ea-aa1ccff6e587" />
 
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/558d0f6e-9259-44ca-866e-687ecf273d85" />
+
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/2de96747-59e2-4be1-bb68-c730cd9c47e3" />
 
 
 <br>
@@ -17,7 +18,9 @@ Atkinson Hyperlegible is a great typeface but with a few design choices that wer
 Hyperreadable changes these and makes some minor alterations for a more neutral look while keeping a good amount of legibility.
 
 
-<img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/7ba7bc86-1032-4f70-b0c4-692293b32baf" />
+<img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/1ab2a8a0-7a8f-49a2-810f-2c09fe51a43d" />
+
+
 
 
 <br>
@@ -47,7 +50,7 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 
 **q**: The lowercase q has a shorter tail. This can also help add more space before certain characters:
 
-<img width="559" height="157" alt="image" src="https://github.com/user-attachments/assets/201ac36f-53a3-45f2-bc1f-0d387108ffa8" />
+<img width="523" height="103" alt="image" src="https://github.com/user-attachments/assets/ba33b63f-01a2-4589-a9c3-9d0f79e70a75" />
 
 
 <br>
@@ -66,7 +69,8 @@ The asymmetrical spurs on several characters have been made symmetrical:
 
 Overall, the differences are mostly subtle unless the text is large, bold, or contains numbers:
 
-<img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/89a087c4-e5b9-4443-9085-dec538dd6b12" />
+<img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/01d9da49-95a3-44b5-8df5-382e50d1dab3" />
+
 
 
 
