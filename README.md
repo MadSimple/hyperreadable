@@ -37,7 +37,7 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 
 
 <br>
-<br>
+
 
 <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/b27f7112-2dac-47ca-9860-18fc9f610fad" />
 
