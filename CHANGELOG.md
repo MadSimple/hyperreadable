@@ -6,3 +6,8 @@
 
 * Capital W is back to normal
 
+# 1.002
+
+* Lowercase t is slightly shorter
+
+
