@@ -12,5 +12,6 @@
 
 # 1.003
 
-* Slight changes to lowecase t
+* Slight changes to lowercase t
+
 * Curly brackets slightly more pronounced
