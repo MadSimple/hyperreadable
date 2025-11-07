@@ -2,11 +2,11 @@
 **A more plain version of Atkinson Hyperlegible**
 
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/0b2a383d-5f2d-4aed-a9ea-aa1ccff6e587" />
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/ca79ba47-6171-49e5-b757-1fb636c9dc4b" />
 
 
+<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/5ed3a490-cbf7-4bc9-bac0-8c4b0c5c5243" />
 
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/2de96747-59e2-4be1-bb68-c730cd9c47e3" />
 
 
 <br>
@@ -18,9 +18,7 @@ Atkinson Hyperlegible is a great typeface but with a few design choices that wer
 Hyperreadable changes these and makes some minor alterations for a more neutral look while keeping a good amount of legibility.
 
 
-<img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/1ab2a8a0-7a8f-49a2-810f-2c09fe51a43d" />
-
-
+<img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/81c154a4-d5d6-4a1e-8476-3edf8c058776" />
 
 
 <br>
@@ -50,7 +48,7 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 
 **q**: The lowercase q has a shorter tail. This can also help add more space before certain characters:
 
-<img width="523" height="103" alt="image" src="https://github.com/user-attachments/assets/ba33b63f-01a2-4589-a9c3-9d0f79e70a75" />
+<img width="517" height="84" alt="image" src="https://github.com/user-attachments/assets/24a0e666-4e03-4097-b11f-dba4e1de70b8" />
 
 
 <br>
@@ -69,9 +67,7 @@ The asymmetrical spurs on several characters have been made symmetrical:
 
 Overall, the differences are mostly subtle unless the text is large, bold, or contains numbers:
 
-<img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/01d9da49-95a3-44b5-8df5-382e50d1dab3" />
-
-
+<img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/2ded3614-f72d-48e8-a65a-afd6f96bcdc5" />
 
 
 

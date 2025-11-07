@@ -10,4 +10,7 @@
 
 * Lowercase t is slightly shorter
 
+# 1.003
 
+* Slight changes to lowecase t
+* Curly brackets slightly more pronounced
