@@ -48,7 +48,7 @@ Hyperreadable changes these and makes some minor alterations for a more neutral 
 
 **q**: The lowercase q has a shorter tail. This can also help add more space before certain characters:
 
-<img width="517" height="84" alt="image" src="https://github.com/user-attachments/assets/24a0e666-4e03-4097-b11f-dba4e1de70b8" />
+<img width="517" height="84" alt="image" src="https://github.com/user-attachments/assets/6e86e56c-8926-458c-aa11-ece3605952b3" />
 
 
 <br>
