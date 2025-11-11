@@ -15,3 +15,7 @@
 * Slight changes to lowercase t
 * Curly brackets slightly more pronounced
 
+# 1.004
+
+* Removed serif from accented i glyphs
+* Neutral and Alt versions added

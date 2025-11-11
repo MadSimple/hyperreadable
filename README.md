@@ -1,6 +1,8 @@
 # Hyperreadable
 **A more plain version of Atkinson Hyperlegible**
 
+(Includes three variants: Hyperreadable, Hyperreadable Neutral, Hyperreadable Alt)
+
 
 <img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/ca79ba47-6171-49e5-b757-1fb636c9dc4b" />
 
@@ -61,15 +63,24 @@ The asymmetrical spurs on several characters have been made symmetrical:
 <img width="487" height="270" alt="image" src="https://github.com/user-attachments/assets/c7f24ab4-5368-49ae-8815-6162bcd705d8" />
 
 
+
 <br>
 
 <br>
+
 
 Overall, the differences are mostly subtle unless the text is large, bold, or contains numbers:
 
 <img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/2ded3614-f72d-48e8-a65a-afd6f96bcdc5" />
 
 
+## Hyperreadable Neutral, Hyperreadable Alt
+
+Two other variants are also included:
+
+<img width="762" height="192" alt="image" src="https://github.com/user-attachments/assets/524f96cb-d427-4441-8efc-3e87c8047e24" />
+
+<img width="1005" height="209" alt="image" src="https://github.com/user-attachments/assets/669a8832-0f3a-42a0-b3a2-116654a27585" />
 
 ## License
 
