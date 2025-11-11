@@ -1,7 +1,12 @@
 # Hyperreadable
 **A more plain version of Atkinson Hyperlegible**
 
-(Includes three variants: Hyperreadable, Hyperreadable Neutral, Hyperreadable Alt)
+Atkinson Hyperlegible is a great typeface but with a few design choices that were still difficult to get accustomed to after extensive usage.
+
+Hyperreadable aims for a more toned-down look while keeping a good amount of legibility.
+
+##### (Includes two other variants: Hyperreadable Neutral, Hyperreadable Alt)
+
 
 
 <img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/ca79ba47-6171-49e5-b757-1fb636c9dc4b" />
@@ -14,10 +19,6 @@
 <br>
 
 <br>
-
-Atkinson Hyperlegible is a great typeface but with a few design choices that were still difficult to get accustomed to after extensive usage.
-
-Hyperreadable aims for a more toned-down look while keeping a good amount of legibility.
 
 
 <img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/81c154a4-d5d6-4a1e-8476-3edf8c058776" />
