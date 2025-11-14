@@ -79,7 +79,9 @@ Two other variants are also included:
 
 <img width="762" height="192" alt="image" src="https://github.com/user-attachments/assets/524f96cb-d427-4441-8efc-3e87c8047e24" />
 
-<img width="1005" height="209" alt="image" src="https://github.com/user-attachments/assets/669a8832-0f3a-42a0-b3a2-116654a27585" />
+<img width="1050" height="157" alt="image" src="https://github.com/user-attachments/assets/cc1e1954-8a66-4dc3-81a4-afd2ed69026c" />
+
+
 
 ## License
 

@@ -19,3 +19,7 @@
 
 * Removed serif from accented i glyphs
 * Neutral and Alt versions added
+
+# 1.005
+
+* Alt has updated 4, 7 and Q
