@@ -1,32 +1,34 @@
 # Hyperreadable
-**A more plain version of Atkinson Hyperlegible**
 
 Atkinson Hyperlegible is a great typeface but with a few design choices that were still difficult to get accustomed to after extensive usage.
+**Hyperreadable** aims for a more toned-down look while keeping a good amount of legibility.
 
-Hyperreadable aims for a more toned-down look while keeping a good amount of legibility.
+Includes 2 other variants:
+* **Hyperreadable Neutral** (capital i and lowercase L look the same, lowercase q has no tail)
+* **Hyperreadable Alt** (several alternate glyphs, some resembling IBM Plex)
 
-##### (Includes two other variants shown at the bottom: Hyperreadable Neutral, Hyperreadable Alt)
-
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/ca79ba47-6171-49e5-b757-1fb636c9dc4b" />
-
-
-<img width="2304" height="1214" alt="image" src="https://github.com/user-attachments/assets/5ed3a490-cbf7-4bc9-bac0-8c4b0c5c5243" />
+<img width="2304" height="1185" alt="image" src="https://github.com/user-attachments/assets/23d1d9da-d95a-44cc-aa73-5b04704d4180" />
 
 
+<img width="2304" height="1185" alt="image" src="https://github.com/user-attachments/assets/7c8048fd-72c2-4c7e-89cf-4344baac067c" />
 
-<br>
-
-<br>
-
-
-<img width="1026" height="180" alt="image" src="https://github.com/user-attachments/assets/81c154a4-d5d6-4a1e-8476-3edf8c058776" />
 
 
 <br>
 
 <br>
 
-**0 and O**: The slash has been removed from the 0 since it can be distracting when text is small or bold. The zero is now slightly more narrow, and the capital O is now slightly wider for increased legibility.
+
+<img width="863" height="154" alt="image" src="https://github.com/user-attachments/assets/71460242-5934-4563-98d4-e3b5ee87e698" />
+
+
+<br>
+
+<br>
+
+Changes from Atkinson Hyperlegible are listed below.
+
+**0 and O**: The slash has been removed from the zero since it can be distracting when text is small or bold. The zero is now slightly more narrow, and the capital O is now slightly wider for increased legibility.
 
 **6**: The 6 is no longer curved at the top. It was frequently being confused for the 8 or the slashed 0.
 
@@ -71,16 +73,6 @@ The asymmetrical spurs on several characters have been made symmetrical:
 Overall, the differences are mostly subtle unless the text is large, bold, or contains numbers:
 
 <img width="1208" height="1180" alt="image" src="https://github.com/user-attachments/assets/2ded3614-f72d-48e8-a65a-afd6f96bcdc5" />
-
-
-## Hyperreadable Neutral, Hyperreadable Alt
-
-Two other variants are also included:
-
-<img width="762" height="192" alt="image" src="https://github.com/user-attachments/assets/524f96cb-d427-4441-8efc-3e87c8047e24" />
-
-<img width="1050" height="157" alt="image" src="https://github.com/user-attachments/assets/cc1e1954-8a66-4dc3-81a4-afd2ed69026c" />
-
 
 
 ## License

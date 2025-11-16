@@ -23,3 +23,9 @@
 # 1.005
 
 * Alt has updated 4, 7 and Q
+
+# 1.006
+
+* Hyperreadable: lowercase q slightly adjusted.
+* Alt: new lowercase q. 7 slightly adjusted.
+
