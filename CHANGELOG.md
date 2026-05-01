@@ -1,31 +1,38 @@
-# 1.000
+# 2.000
 
-* Initial release
-
-# 1.001
-
-* Capital W is back to normal
-
-# 1.002
-
-* Lowercase t is slightly shorter
-
-# 1.003
-
-* Slight changes to lowercase t
-* Curly brackets slightly more pronounced
-
-# 1.004
-
-* Removed serif from accented i glyphs
-* Neutral and Alt versions added
-
-# 1.005
-
-* Alt has updated 4, 7 and Q
+* New weights and italics added.
+* Various glyphs altered slightly.
 
 # 1.006
 
 * Hyperreadable: lowercase q slightly adjusted.
 * Alt: new lowercase q. 7 slightly adjusted.
+
+# 1.005
+
+* Alt has updated 4, 7 and Q.
+
+# 1.004
+
+* Removed serif from accented i glyphs.
+* Neutral and Alt versions added.
+
+# 1.003
+
+* Slight changes to lowercase t.
+* Curly brackets slightly more pronounced.
+
+# 1.002
+
+* Lowercase t is slightly shorter.
+
+# 1.001
+
+* Capital W is back to normal.
+
+# 1.000
+
+* Initial release.
+
+
 

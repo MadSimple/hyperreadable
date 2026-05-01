@@ -8,10 +8,10 @@ Includes 2 other variants:
 * **Hyperreadable Neutral** (capital i and lowercase L look the same, lowercase q has no tail)
 * **Hyperreadable Alt** (several alternate glyphs, some resembling IBM Plex)
 
-<img width="2304" height="1185" alt="image" src="https://github.com/user-attachments/assets/23d1d9da-d95a-44cc-aa73-5b04704d4180" />
+<img width="2175" height="1185" alt="dark" src="https://github.com/user-attachments/assets/891fd99c-a19e-4669-a645-67ce95927f4a" />
 
 
-<img width="2304" height="1185" alt="image" src="https://github.com/user-attachments/assets/7c8048fd-72c2-4c7e-89cf-4344baac067c" />
+<img width="2175" height="1185" alt="light" src="https://github.com/user-attachments/assets/1a44ddc3-4877-4d94-8590-c75f25386c78" />
 
 
 
